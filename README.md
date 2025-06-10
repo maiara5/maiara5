@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Olá, Me chamo Maiara Marques Ferreira!
 
-<!--
-**maiara5/maiara5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p> Sou uma estudante iniciando minha jornada no mundo da programação e atualmente estou no primeiro período de SI. Ainda estou aprendendo o básico, mas já descobri que programar pode ser desafiador e divertido ao mesmo tempo. 😄
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 O que estou aprendendo:
+
+- Lógica de programação
+- Fundamentos de HTML e CSS
+- Um pouquinho de Python 🐍
+- Como usar o Git e o GitHub
+
+---
+
+## ✨ Meus objetivos:
+
+- Construir meus primeiros projetos
+- Compartilhar aprendizados aqui no GitHub
+- Aprender com a comunidade dev ❤️
+
+---
+
+## 📌 Frase que me inspira:
+
+> “Todo expert um dia já foi iniciante.” – Helen Hayes
+
+---
+
+
